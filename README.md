@@ -45,4 +45,4 @@ scoop install neovim gcc
 From current user folder, create a config folder for powershell with `mkdir .config/powershell`. 
 > The command line should create something like: C:\Users\<current user>\.config\powershell
 
-From the powershell folder, create a `user_profile.ps`
+From the powershell folder, create a [user_profile.ps1](https://github.com/khoaNguyen96/Window-Powershell-setup/blob/main/user_profile.ps1)
